@@ -4,6 +4,8 @@
 
 Swift DNS is an advanced, terminal-based DNS management tool meticulously engineered for developers, gamers, and power users in the Windows ecosystem. It transforms the tedious task of managing DNS settings into a fast, intuitive, and enjoyable experience. Built with Go and the powerful Bubble Tea TUI framework, it provides a seamless and visually rich interface to control your network's gateway to the internet, all without ever leaving your keyboard.
 
+_(Future support for Linux and macOS is planned!)_
+
 <br/>
 
 <p align="center">
@@ -77,7 +79,7 @@ In a world of GUIs and complex network settings panels, why choose a terminal ap
 ### Prerequisites
 
 - Go 1.21+
-- Windows OS
+- **Windows OS (Currently)**
 
 ### Installation & Usage
 

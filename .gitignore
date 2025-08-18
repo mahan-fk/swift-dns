@@ -1,0 +1,22 @@
+# Compiled binary
+SwiftDNS.exe
+swift-dns.exe
+*.exe
+
+# Log files
+*.log
+debug.log
+
+# Go build cache
+/pkg/
+/bin/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
